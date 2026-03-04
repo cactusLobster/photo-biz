@@ -1,0 +1,116 @@
+[
+  {
+    "project": "DasHaus",
+    "displayName": "Das Haus",
+    "images": [
+      "17934491_201663887003699_5841023533920026624_n.jpg",
+      "dashaus_001.jpg",
+      "dashaus_002.jpg",
+      "dashaus_003.jpg",
+      "dashaus_004.jpg",
+      "dashaus_005.jpg",
+      "dashaus_006.jpg",
+      "dashaus_007.jpg"
+    ]
+  },
+  {
+    "project": "HBF",
+    "displayName": "HBF Showroom",
+    "images": [
+      "hbf_001.jpg",
+      "hbf_002.jpg",
+      "hbf_003.jpg",
+      "hbf_004.jpg",
+      "hbf_005.jpg",
+      "hbf_006.jpg",
+      "hbf_007.jpg",
+      "hbf_008.jpg"
+    ]
+  },
+  {
+    "project": "SVA",
+    "displayName": "SVA MFA Photography",
+    "images": [
+      "han_001_p8a0282_web.jpg",
+      "iris_001_untitled_session0025_web.jpg",
+      "iris_003_untitled_session0047_web.jpg",
+      "ooldouz_001_p8a0019_web.jpg",
+      "sva_mfapv_2017_alex_649_web.jpg",
+      "xiaoyang_001_untitled_session0070_web.jpg"
+    ]
+  },
+  {
+    "project": "abcV",
+    "displayName": "ABC Carpet & Home Villagio",
+    "images": [
+      "abcv_001.jpg",
+      "abcv_002.jpg",
+      "abcv_003.jpg",
+      "abcv_004.jpg",
+      "abcv_005.jpg",
+      "abcv_006.jpg"
+    ]
+  },
+  {
+    "project": "abc_chelsea",
+    "displayName": "ABC Carpet & Home Chelsea",
+    "images": [
+      "abc_chelsea_001.jpg",
+      "abc_chelsea_002.jpg",
+      "abc_chelsea_003.jpg",
+      "abc_chelsea_004.jpg",
+      "abc_chelsea_005.jpg"
+    ]
+  },
+  {
+    "project": "conveyor",
+    "displayName": "NY Art Book Fair",
+    "images": [
+      "20170923_nyabf_0011_1.jpg",
+      "20170923_nyabf_0016_1.jpg",
+      "20170923_nyabf_0019_1.jpg",
+      "20170923_nyabf_0042.jpg"
+    ]
+  },
+  {
+    "project": "hgg_2017",
+    "displayName": "Holidays at the Guggenheim",
+    "images": [
+      "hgg2017_001.jpg",
+      "hgg2017_002.jpg",
+      "hgg2017_003.jpg",
+      "hgg2017_004.jpg"
+    ]
+  },
+  {
+    "project": "humanScale",
+    "displayName": "Humanscale Showroom",
+    "images": [
+      "hs_001.jpg",
+      "hs_002.jpg",
+      "hs_003.jpg",
+      "hs_004.jpg",
+      "hs_005.jpg"
+    ]
+  },
+  {
+    "project": "tinaKim",
+    "displayName": "Tina Kim Gallery",
+    "images": [
+      "2016_11_07_tkim_park_seo-bo_p8a6902_web.jpg",
+      "room01_a_01.jpg",
+      "room01_c_01.jpg",
+      "tkim_001.jpg",
+      "tkim_002.jpg",
+      "tkim_003.jpg",
+      "tkim_004.jpg",
+      "tkim_005.jpg",
+      "tkim_006.jpg",
+      "tkim_007.jpg",
+      "tkim_008.jpg",
+      "tkim_009.jpg",
+      "_p8a6751.jpg",
+      "_p8a6787.jpg"
+    ]
+  }
+]
