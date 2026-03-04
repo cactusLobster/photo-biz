@@ -32,7 +32,7 @@ export default function PortfolioPage() {
               >
                 <div className="aspect-[4/3] bg-zinc-900 rounded-xl overflow-hidden relative group-hover:ring-2 ring-amber-500 transition-all">
                   <Image
-                    src={`/portfolio/${project.project}/${project.images[0]}`}
+                    src={`/photo-biz/portfolio/${project.project}/${project.images[0]}`}
                     alt={project.displayName}
                     fill
                     className="object-cover group-hover:scale-105 transition-transform duration-500"

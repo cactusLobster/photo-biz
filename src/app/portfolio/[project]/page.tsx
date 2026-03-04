@@ -67,7 +67,7 @@ export default async function ProjectPage({ params }: Props) {
                 className={`relative ${index === 0 ? 'md:col-span-2 aspect-[16/9]' : 'aspect-[4/3]'} bg-zinc-900 rounded-xl overflow-hidden`}
               >
                 <Image
-                  src={`/portfolio/${projectData.project}/${image}`}
+                  src={`/photo-biz/portfolio/${projectData.project}/${image}`}
                   alt={`${projectData.displayName} - Image ${index + 1}`}
                   fill
                   className="object-cover hover:scale-105 transition-transform duration-500"

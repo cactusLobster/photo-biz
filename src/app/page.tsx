@@ -46,7 +46,7 @@ export default function Home() {
         {/* Background placeholder - replace with actual hero image */}
         <div className="absolute inset-0 bg-zinc-950">
           <Image 
-            src="/hero.jpg" 
+            src="/photo-biz/hero.jpg" 
             alt="Commercial interior photography" 
             fill 
             className="object-cover opacity-50"
@@ -161,7 +161,7 @@ export default function Home() {
                 className="group relative aspect-[4/3] bg-zinc-800 rounded-lg overflow-hidden"
               >
                 <Image
-                  src={`/portfolio/${project.project}/${project.images[0]}`}
+                  src={`/photo-biz/portfolio/${project.project}/${project.images[0]}`}
                   alt={project.displayName}
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-500"
